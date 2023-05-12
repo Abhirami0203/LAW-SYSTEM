@@ -1,2 +1,3 @@
 # LAW-SYSTEM
 Simplifying Legal Access
+Law System is a user-friendly Android application designed to aid the common man in understanding the laws and regulations in India according to specific crimes. The app incorporates the Indian Penal Code (IPC) to provide a comprehensive database of laws and regulations for various crimes. Users can select the crime category, enter details related to the incident, and receive recommendations on the respective penal code and punishments. The app also provides access to case history and legal guidance on further proceedings. Law System aims to bridge the gap between the common man and the legal system, increasing awareness and understanding of the law in India.
